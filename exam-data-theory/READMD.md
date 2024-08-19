@@ -20,6 +20,6 @@ The results of this project will include:
 
 
 ## Documentation
-1. exam-data-theory.docx: This document contains theoretical questions and answers related to various machine learning and statistical concepts. It covers topics such as probability estimation, regression analysis, matrix operations, and more.
-2. exam-data-theory2.docx: Similar to the first document, this file contains additional questions and solutions focusing on machine learning theory, including questions on the Central Limit Theorem, overfitting reduction techniques, and matrix algebra.
-3. exercise_3_code.ipynb: This Jupyter notebook contains code for loading, preprocessing, and training models on image datasets, likely focusing on tasks like classification using CNNs.
+1. [exam-data-theory.docx](https://github.com/micsupasun/machine_learning_exam/blob/main/exam-data-theory/exam-data-theory.docx): This document contains theoretical questions and answers related to various machine learning and statistical concepts. It covers topics such as probability estimation, regression analysis, matrix operations, and more.
+2. [exam-data-theory2.docx](https://github.com/micsupasun/machine_learning_exam/blob/main/exam-data-theory/exam-data-theory2.docx): Similar to the first document, this file contains additional questions and solutions focusing on machine learning theory, including questions on the Central Limit Theorem, overfitting reduction techniques, and matrix algebra.
+3. [exercise_3_code.ipynb](https://github.com/micsupasun/image_processing/blob/main/image_processing_wat_pho_and_wat_pra_kaew/exercise_3_code.ipynb): This Jupyter notebook contains code for loading, preprocessing, and training models on image datasets, likely focusing on tasks like classification using CNNs.
